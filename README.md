@@ -1,4 +1,4 @@
-Calculating Free-to-Paid Conversion Rate with SQL Project
+### Calculating Free-to-Paid Conversion Rate with SQL Project
 
 Questions to be Answered :
 
